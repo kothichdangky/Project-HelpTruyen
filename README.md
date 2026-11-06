@@ -49,7 +49,7 @@ Yêu cầu các key:<br>
 | chapter_images | lưu trữ các hình ảnh của từng chapter trong manga, thứ tự | 
 | chapters | lưu trữ thông tin của chapter như tên chap, thứ tự |
 | comments | lưu trữ các comment của những người xem trong từng chapter của truyện |
-| manga_genres | Dùng để liên kết với bảng types và bảng chapters để xuất ra type riêng cho từng manga |
+| manga_genres | Dùng để liên kết với bảng types và bảng mangas để xuất ra type riêng cho từng manga |
 | mangas | lưu trữ tên truyện, tên tác giả, tóm tắt câu truyện, ảnh nền lớn và ảnh chính của truyện |
 | settings | lưu trữ các thông số có thể điều chỉnh trang wed, như số lượng chapter của mỗi trang, số lưỡng chữ để rút gọn, ảnh background và ảnh chính đầu tiên  |
 | types | lưu trữ các type để người dùng có thể tự dùng và bỏ vào truyện của mình |
