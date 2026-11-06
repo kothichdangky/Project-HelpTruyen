@@ -1,7 +1,7 @@
 # Project-HelpTruyen
 
 ## 1. Giới thiệu dự án 
-HelpTruyện là dự án thiết kế dành cho các đội ngũ dịch truyện ở Việt Nam có thể dịch và đưa những trang truyện đến với người đọc, người đọc có thể không cần đăng nhập để đọc truyện hoặc đăng nhập quản lý tài khoản của mình có thể đăng truyện hoặc bình luận trong các câu truyện
+HelpTruyện là dự án thiết kế dành cho các đội ngũ dịch truyện ở Việt Nam, người đọc có thể không cần đăng nhập để đọc truyện hoặc đăng nhập quản lý tài khoản của mình có thể đăng truyện hoặc bình luận trong các câu truyện của nhau
 
 ## 2. Hình ảnh giao diện
 
@@ -20,8 +20,8 @@ HelpTruyện là dự án thiết kế dành cho các đội ngũ dịch truyệ
  . JavaScript<br>
  . Tailwind CSS<br>
  . Auth.js<br>
- . Supabase (PostgreSQL)<br>
  . Date-fns<br>
+ . Supabase (PostgreSQL)<br>
 
 ## 5. Cách cài đặt
  ### B1:
@@ -42,6 +42,7 @@ Yêu cầu các key:<br>
 
  ### B4: 
 npm run dev
+Truy cập http://localhost:3000 để sử dụng ứng dụng.
 
 ## 6. Cấu trúc database
 
@@ -76,5 +77,5 @@ GitHub: kothichdangky<br>
 ### Đôi lời muốn gửi: 
 Đây là sản phẩm đc mình làm ra sau khi hoàn thành việc học react và nextJs, khi phát triển dự án bản thân đã mình ưu tiên tự nghiên cứu, triển khai và giải quyết các lỗi phát sinh, để giúp bản thân củng cố kiến thức và cải thiện tự duy lập trình.<br>
 AI là một công cụ hữu ích và mình không phủ nhận giá trị của nó. Nhưng mình tin để sử dụng AI tốt nhất thì bản thân mình cũng phải hiểu được cách xây dựng 1 dự án, bởi vì mục tiêu của một dự án không chỉ là tạo ra một sản phẩm hoàn chỉnh mà còn là hiểu rỡ cấu trúc của nó, qua đó rèn luyện được khả năng tư duy và giải quyết vấn đề 1 cách độc lập<br>
-Nếu sản phẩm có bất cứ lỗi nhỏ nào hi vọng bạn có thể bỏ qua cho. <br>
+Nếu sản phẩm có thiếu sót nào, mình hi vọng có thể nhận đc cảm thông và góp ý từ mọi người. <br>
 Cảm ơn bạn đã dành thời gian tìm hiểu về dự án.
