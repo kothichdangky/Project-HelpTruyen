@@ -15,21 +15,19 @@ HelpTruyện là dự án thiết kế dành cho các đội ngũ dịch truyệ
  .Phân trang, sắp xếp các chương truyện
 
 ## 4. Công nghệ sử dụng
- . Next.js
- . React
- . JavaScript
- . Tailwind CSS
- . Auth.js
- . Supabase (PostgreSQL)
- . Date-fns
+ . Next.js<br>
+ . React<br>
+ . JavaScript<br>
+ . Tailwind CSS<br>
+ . Auth.js<br>
+ . Supabase (PostgreSQL)<br>
+ . Date-fns<br>
 
 ## 5. Cách cài đặt
  ### B1:
  git clone https://github.com/kothichdangky/Project-HelpTruyen.git
-
  ### B2:    
  npm install
- 
  ### B3:
  npm run dev
 
@@ -38,11 +36,11 @@ HelpTruyện là dự án thiết kế dành cho các đội ngũ dịch truyệ
 Tạo file `.env.local` ở ngoài cùng.
 
 Yêu cầu các key:<br>
- . AUTH_SECRET:
- . AUTH_GOOGLE_ID:
- . AUTH_GOOGLE_SECRET:
- . NEXT_PUBLIC_SUPABASE_URL:
- . NEXT_PUBLIC_SUPABASE_ANON_KEY:
+ . AUTH_SECRET:<br>
+ . AUTH_GOOGLE_ID:<br>
+ . AUTH_GOOGLE_SECRET:<br>
+ . NEXT_PUBLIC_SUPABASE_URL:<br>
+ . NEXT_PUBLIC_SUPABASE_ANON_KEY:<br>
 
 ## 7. Cấu trúc database
 
@@ -58,20 +56,20 @@ Yêu cầu các key:<br>
 | users | lưu trữ thông tin user và password  |
 
 ## 8. Cấu trúc thư mục
-app/
-├── account/
-    ├── deltail
-    ├── setting
-├── login/
-    ├── register
-├── chapter/
-├──components/
-├──_lib/
-public/
+app/<br>
+├── account/<br>
+    ├── deltail<br>
+    ├── setting<br>
+├── login/<br>
+    ├── register<br>
+├── chapter/<br>
+├──components/<br>
+├──_lib/<br>
+public/<br>
 
 ## 9. Tác giả
 
-Developed by [Dương Thắng]
-GitHub: kothichdangky
+Developed by [Dương Thắng]<br>
+GitHub: kothichdangky<br>
 
-đôi lời muốn gửi: đây là sản phẩm đc mình làm ra sau khi hoàn thành việc học  react và nextJs tuy mất tương đối thời gian nhưng mình tự tin vào kĩ năng vì đã hạn chế dùng AI, 80% sản phẩm này đc tự mình phát triển, bản thân mình không kì thị AI hay xem thường nó, bản thân mình chỉ muốn dùng dự án này để ôn tập và phát triển kĩ năng của bản thân, phát triển khả năng xử lý tình huống và tư duy lập trình, cảm ơn vì đã đọc.
+Đôi lời muốn gửi: đây là sản phẩm đc mình làm ra sau khi hoàn thành việc học  react và nextJs tuy mất tương đối thời gian nhưng mình tự tin vào kĩ năng vì đã hạn chế dùng AI, 80% sản phẩm này đc tự mình phát triển, bản thân mình không kì thị AI hay xem thường nó. Mình biết rõ bản thân sẽ không code nhanh được như AI, bản thân mình chỉ muốn dùng dự án này để ôn tập và phát triển kĩ năng của bản thân, phát triển khả năng xử lý tình huống và tư duy lập trình, cảm ơn vì đã đọc.
