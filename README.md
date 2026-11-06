@@ -6,9 +6,9 @@ HelpTruyện là dự án thiết kế dành cho các đội ngũ dịch truyệ
 ## 2. Screenshots - Hình ảnh giao diện
 
 ## 3. Features – Chức năng
- .Thanh search giúp tìm truyện dễ hơn
- .Có thể tự do điều chỉnh các chap, thứ tự hình ảnh, nội dung
- .Đọc các trang truyện đã đăng tải
- .Bình luận các nội dung mình muốn vào từng chương truyện
- .Có thể tự do đăng nhập bằng google hoặc tạo tài khoản mới tại wed
+ .Thanh search giúp tìm truyện dễ hơn <br>
+ .Có thể tự do điều chỉnh các chap, thứ tự hình ảnh, nội dung<br>
+ .Đọc các trang truyện đã đăng tải<br>
+ .Bình luận các nội dung mình muốn vào từng chương truyện<br>
+ .Có thể tự do đăng nhập bằng google hoặc tạo tài khoản mới tại wed<br>
  .
