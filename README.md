@@ -6,6 +6,7 @@ HelpTruyện là dự án thiết kế dành cho các đội ngũ dịch truyệ
 ## 2. Screenshots - Hình ảnh giao diện
 
 ## 3. Features – Chức năng
+
 -Thanh search giúp tìm truyện dễ hơn
 -Có thể tự do điều chỉnh các chap, thứ tự hình ảnh, nội dung
 -Đọc các trang truyện đã đăng tải
