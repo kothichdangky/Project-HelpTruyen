@@ -28,10 +28,7 @@ HelpTruyện là dự án thiết kế dành cho các đội ngũ dịch truyệ
  git clone https://github.com/kothichdangky/Project-HelpTruyen.git
  ### B2:    
  npm install
- ### B3:
- npm run dev
-
-## 6. Biến môi trường
+ ### B3: Biến môi trường
 
 Tạo file `.env.local` ở ngoài cùng.
 
@@ -42,7 +39,10 @@ Yêu cầu các key:<br>
  . NEXT_PUBLIC_SUPABASE_URL:<br>
  . NEXT_PUBLIC_SUPABASE_ANON_KEY:<br>
 
-## 7. Cấu trúc database
+ ### B4: 
+npm run dev
+
+## 6. Cấu trúc database
 
 | Bảng | Mô tả 
 |:---|:---|
@@ -55,21 +55,24 @@ Yêu cầu các key:<br>
 | types | lưu trữ các type để người dùng có thể tự dùng và bỏ vào truyện của mình |
 | users | lưu trữ thông tin user và password  |
 
-## 8. Cấu trúc thư mục
-app/<br>
-├── account/<br>
-    ├── deltail<br>
-    ├── setting<br>
-├── login/<br>
-    ├── register<br>
-├── chapter/<br>
-├──components/<br>
-├──_lib/<br>
-public/<br>
+## 7. Cấu trúc thư mục
+app/
+├── account/
+│   ├── detail/
+│   └── setting/
+├── login/
+│   └── register/
+├── chapter/
+├── components/
+└── _lib/
+public/
 
-## 9. Tác giả
+## 8. Tác giả
 
 Developed by [Dương Thắng]<br>
 GitHub: kothichdangky<br>
 
-Đôi lời muốn gửi: đây là sản phẩm đc mình làm ra sau khi hoàn thành việc học  react và nextJs tuy mất tương đối thời gian nhưng mình tự tin vào kĩ năng vì đã hạn chế dùng AI, 80% sản phẩm này đc tự mình phát triển, bản thân mình không kì thị AI hay xem thường nó. Mình biết rõ bản thân sẽ không code nhanh được như AI, bản thân mình chỉ muốn dùng dự án này để ôn tập và phát triển kĩ năng của bản thân, phát triển khả năng xử lý tình huống và tư duy lập trình, cảm ơn vì đã đọc.
+### Đôi lời muốn gửi: 
+Đây là sản phẩm đc mình làm ra sau khi hoàn thành việc học react và nextJs, khi phát triển dự án bản thân đã mình ưu tiên tự nghiên cứu, triển khai và giải quyết các lỗi phát sinh, để giúp bản thân củng cố kiến thức và cải thiện tự duy lập trình.<br>
+AI là một công cụ hữu ích và mình không phủ nhận giá trị của nó. Nhưng mình tin để sử dụng AI tốt nhất thì bản thân mình cũng phải hiểu được cách xây dựng 1 dự án, bởi vì mục tiêu của một dự án không chỉ là tạo ra một sản phẩm hoàn chỉnh mà còn là hiểu rỡ cấu trúc của nó, qua đó rèn luyện được khả năng tư duy và giải quyết vấn đề 1 cách độc lập
+Cảm ơn bạn đã dành thời gian tìm hiểu về dự án.
