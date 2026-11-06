@@ -26,6 +26,7 @@ HelpTruyện là dự án thiết kế dành cho các đội ngũ dịch truyệ
 ## 5. Cách cài đặt
  ### B1:
  git clone https://github.com/kothichdangky/Project-HelpTruyen.git
+ cd helptruyen
  ### B2:    
  npm install
  ### B3: Biến môi trường
@@ -56,16 +57,16 @@ npm run dev
 | users | lưu trữ thông tin user và password  |
 
 ## 7. Cấu trúc thư mục
-app/
-├── account/
-│   ├── detail/
-│   └── setting/
-├── login/
-│   └── register/
-├── chapter/
-├── components/
-└── _lib/
-public/
+app/<br>
+├── account/<br>
+│   ├── detail/<br>
+│   └── setting/<br>
+├── login/<br>
+│   └── register/<br>
+├── chapter/<br>
+├── components/<br>
+└── _lib/<br>
+public/<br>
 
 ## 8. Tác giả
 
@@ -74,5 +75,6 @@ GitHub: kothichdangky<br>
 
 ### Đôi lời muốn gửi: 
 Đây là sản phẩm đc mình làm ra sau khi hoàn thành việc học react và nextJs, khi phát triển dự án bản thân đã mình ưu tiên tự nghiên cứu, triển khai và giải quyết các lỗi phát sinh, để giúp bản thân củng cố kiến thức và cải thiện tự duy lập trình.<br>
-AI là một công cụ hữu ích và mình không phủ nhận giá trị của nó. Nhưng mình tin để sử dụng AI tốt nhất thì bản thân mình cũng phải hiểu được cách xây dựng 1 dự án, bởi vì mục tiêu của một dự án không chỉ là tạo ra một sản phẩm hoàn chỉnh mà còn là hiểu rỡ cấu trúc của nó, qua đó rèn luyện được khả năng tư duy và giải quyết vấn đề 1 cách độc lập
+AI là một công cụ hữu ích và mình không phủ nhận giá trị của nó. Nhưng mình tin để sử dụng AI tốt nhất thì bản thân mình cũng phải hiểu được cách xây dựng 1 dự án, bởi vì mục tiêu của một dự án không chỉ là tạo ra một sản phẩm hoàn chỉnh mà còn là hiểu rỡ cấu trúc của nó, qua đó rèn luyện được khả năng tư duy và giải quyết vấn đề 1 cách độc lập<br>
+Nếu sản phẩm có bất cứ lỗi nhỏ nào hi vọng bạn có thể bỏ qua cho. <br>
 Cảm ơn bạn đã dành thời gian tìm hiểu về dự án.
