@@ -17,6 +17,7 @@ HelpTruyện là dự án thiết kế dành cho các đội ngũ dịch truyệ
 ## 4. Công nghệ sử dụng
  . Next.js<br>
  . React<br>
+ . Heroicons/react
  . JavaScript<br>
  . Tailwind CSS<br>
  . Auth.js<br>
@@ -65,6 +66,7 @@ app/<br>
 ├── login/<br>
 │   └── register/<br>
 ├── chapter/<br>
+├── api/<br>
 ├── _Components/<br>
 ├── _constants/<br>
 └── _lib/<br>
@@ -72,7 +74,7 @@ public/<br>
 
 ## 8. Tác giả
 
-Developed by [Dương Thắng]<br>
+Developed by: Dương Thắng<br>
 GitHub: kothichdangky<br>
 
 ### Đôi lời muốn gửi: 
