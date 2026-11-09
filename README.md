@@ -50,7 +50,7 @@ HelpTruyện là dự án thiết kế dành cho các đội ngũ dịch truyệ
 ## 4. Công nghệ sử dụng
  . Next.js<br>
  . React<br>
- . Heroicons/react
+ . Heroicons/react<br>
  . JavaScript<br>
  . Tailwind CSS<br>
  . Auth.js<br>
