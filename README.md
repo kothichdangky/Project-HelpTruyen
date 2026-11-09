@@ -33,7 +33,7 @@ HelpTruyện là dự án thiết kế dành cho các đội ngũ dịch truyệ
 #### Update chapter
 <img src="./img/updateChapter.PNG" width="700" />
 
-<img src="./img/updateChapter2.PNG" width="700" />
+<img src="./img/updatechapter2.PNG" width="700" />
 
 #### Update trang truyện
 <img src="./img/detailImageChapter.PNG" width="700" />
