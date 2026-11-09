@@ -16,12 +16,10 @@ export const formatDistanceFromNow = (dateStr) =>
     .replace('less than a minute ago', 'mới cập nhật')
     .replace('minute', 'phút')
     .replace('hours', 'giờ')
+    .replace('days', 'ngày')
+    .replace('day', 'ngày')
     .replace('months', 'tháng')
     .replace('years', 'năm')
-    .replace('day', 'ngày')
-    .replace('days', 'ngày')
-    .replace('week', 'tuần')
-    .replace('weeks', 'tuần')
     .replace('ago', 'trước')
 
 // Supabase needs an ISO date string. However, that string will be different on every render because the MS or SEC have changed, which isn't good. So we use this trick to remove any time

@@ -1,5 +1,7 @@
 import { constants } from "../_constants/page";
 import { supabase } from "./supabase";
+import { notFound } from "next/navigation";
+
 
 // Dùng để làm đăng nhập
 // Kiểm tra email của bảng users
@@ -123,8 +125,7 @@ export const getManga = async function (id) {
     .single();
 
   if (error) {
-    console.error(error);
-    throw new Error("get manga failed");
+    notFound();
   }
 
   return data;
@@ -198,8 +199,7 @@ export const getChapter = async function (id) {
     .single();
 
   if (error) {
-    console.error(error);
-    throw new Error("get chapter failed");
+    notFound();
   }
 
   return data;

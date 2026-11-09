@@ -58,7 +58,7 @@ async function page() {
           />
           <InputFile
            action={updateImageSetting.bind(null, "background_start")}
-            detail="ảnh"
+            detail="ảnh lớn đầu tiên"
             id={1}
             name="file-input1"
           />
@@ -68,7 +68,7 @@ async function page() {
 
           <InputFile
              action={updateImageSetting.bind(null, "image_start")}
-            detail="ảnh"
+            detail="ảnh chính đầu tiên"
             id={1}
             name="file-input2"
           />
@@ -78,7 +78,7 @@ async function page() {
 
           <InputFile
            action={updateImageSetting.bind(null, "image_avarta")}
-            detail="ảnh"
+            detail="ảnh avarta đầu tiên"
             id={1}
             name="file-input3"
           />
