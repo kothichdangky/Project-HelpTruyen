@@ -4,6 +4,39 @@
 HelpTruyện là dự án thiết kế dành cho các đội ngũ dịch truyện ở Việt Nam, người đọc có thể không cần đăng nhập để đọc truyện hoặc đăng nhập quản lý tài khoản của mình có thể đăng truyện hoặc bình luận trong các câu truyện của nhau
 
 ## 2. Hình ảnh giao diện
+#### Trang home
+<img src="./img/home.PNG" width="700" />
+<img src="./img/home2.PNG" width="700" />
+
+#### Thanh search
+<img src="./img/search.png" width="700" />
+
+#### Chapter
+<img src="./img/chapter.PNG" width="700" />
+
+#### Image trong Chapter
+<img src="./img/detailChapter.PNG" width="700" />
+
+#### Comment trong Chapter
+<img src="./img/comment.PNG" width="700" />
+
+#### SignIn và register
+<img src="./img/SignIn.PNG" width="700" />
+<img src="./img/Register.PNG" width="700" />
+
+#### Account
+<img src="./img/account.PNG" width="700" />
+
+#### Setting
+<img src="./img/setting.PNG" width="700" />
+
+#### Update chapter
+<img src="./img/updateChapter.PNG" width="700" />
+<img src="./img/updateChapter2.PNG" width="700" />
+
+#### Update trang truyện
+<img src="./img/detailImageChapter.PNG" width="700" />
+
 
 ## 3. Chức năng
  .Thanh search giúp tìm truyện dễ hơn <br>
